@@ -1,27 +1,23 @@
-package Class15;
+public class Students {
 
-
-public class E8IncrementingStudentStaticVariable {
 
     String Name;
     int ID;
 
     public static int numberOfStudents;
 
-    E8IncrementingStudentStaticVariable(String Name, int ID) {
-
+    Students(String Name, int ID) {
 
     }
 
-
     public static void main(String[] args) {
-        E8IncrementingStudentStaticVariable obj = new E8IncrementingStudentStaticVariable("Matt", 56899);
+        Students OBJ = new Students("Matt", 56998);
         numberOfStudents++;
-        E8IncrementingStudentStaticVariable obj2 = new E8IncrementingStudentStaticVariable("Jack", 52134);
+        Students obj2 = new Students("Jack", 52134);
         numberOfStudents++;
-        E8IncrementingStudentStaticVariable obj3 = new E8IncrementingStudentStaticVariable("Mary", 55221);
+        Students obj3 = new Students("Mary", 55221);
         numberOfStudents++;
-        System.out.println(E8IncrementingStudentStaticVariable.numberOfStudents);
+        System.out.println(Students.numberOfStudents);
 
     }
 }

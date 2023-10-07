@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="3371122d-fc99-43b4-9386-b9cf6a04d6ee" name="Changes" comment="">
+    <list default="true" id="8f074c8c-f1d8-4f24-a028-b1658b07e4e1" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/../GitHW/GitHW.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../HWAPRIL30/HWAPRIL30.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../HWAPRIL30/src/Students.java" afterDir="false" />
@@ -25,6 +28,7 @@
       <change afterPath="$PROJECT_DIR$/../HWMay3/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../HWMay3/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../HWMay3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HWMay3/HWMay3.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../HWMay3/src/HWMAY3/HW1.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../HWMay3/src/HWMAY3/HW2.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../JDK/JDK.iml" afterDir="false" />
@@ -48,7 +52,8 @@
       <change afterPath="$PROJECT_DIR$/../SDETJAVA_NEW_16/src/HomeWorks/HW17.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../SDETJavaBatch16/.idea/SDETJavaBatch16.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../gitClass01/gitClass01.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SDETJAVA_NEW_16/src/HWMAY06/HW2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SDETJAVA_NEW_16/src/HWMAY06/HW2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,9 +61,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="2PS2uFqwWDa1FnqizIB5IPQNpSE" />
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2PS55b9gEURk7CNojT58gkvIpix" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
@@ -70,17 +78,44 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/User/IdeaProjects/HWMay06/src"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\IdeaProjects\HWMay06\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="HW3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HWMAY06.HW3" />
+      <module name="HWMay06" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HWMAY06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HW3" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="3371122d-fc99-43b4-9386-b9cf6a04d6ee" name="Changes" comment="" />
-      <created>1683436384675</created>
+      <changelist id="8f074c8c-f1d8-4f24-a028-b1658b07e4e1" name="Changes" comment="" />
+      <created>1683437460859</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1683436384675</updated>
+      <updated>1683437460859</updated>
     </task>
     <servers />
   </component>
