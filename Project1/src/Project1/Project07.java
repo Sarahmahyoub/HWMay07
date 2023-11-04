@@ -1,21 +1,23 @@
-package Project01;
+package Project1;
 
 public class Project07 {
 
     public static void main(String[] args) {
 
-        int count = 10, num1 = 0, num2 = 1, sum = 0;
+        int a,b,c;
+        a = 0;
+        b = 1;
 
-        System.out.print(num1+" ");
+        System.out.print(a + " ");
 
 
-        for (int i = 1; i < count; ++i) {
+        for (int i = 1; i <= 10; ++i) {
+            c = a + b;
 
-            System.out.print(num2+" ");
+            System.out.print(b + " ");
 
-            sum = num1 + num2;
-            num1 = num2;
-            num2 = sum;
+            a = b;
+            b = c;
 
         }
 

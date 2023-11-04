@@ -1,7 +1,5 @@
 package HWMAY06;
 
-import javax.print.DocFlavor;
-
 public class HW2 {
 
     String firstName;
